@@ -18,9 +18,6 @@ a8P_____88 88 I8[    "" 88 ""     `Y8 88P'   `"8a a8"    `Y88
  `"Ybbd8"' 88 `"YbbdP"' 88 `"8bbdP"Y8 88       88  `"8bbdP"Y8  
 '''
 
-
-# from multiprocessing.connection import wait
-
 print("Welcome to Treasure Island.\nYour mission is to find the treasure.\n")
 choice1 = input("You are at a cross road. Where do you want to go? Enter Left or Right: ").lower()
 
